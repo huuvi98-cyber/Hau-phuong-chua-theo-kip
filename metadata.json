@@ -1,0 +1,6 @@
+{
+  "name": "Đồ Họa Sóng Biển & Chữ Xô Sóng",
+  "description": "Đồ họa sóng biển nghệ thuật với hiệu ứng chữ xô nghiêng, bồng bềnh và uốn lượn theo từng đợt sóng biển.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
